@@ -16,3 +16,7 @@ We are making accuracy and prediction in Iris project through Iris Dataset.
 This is easy and understable for machine learning staters( Naive ).
 
 PS: Please do not forget to drop a star if you like it!
+
+the link for app: 
+
+https://chamsdg-cat-iris-iris-streamlit-j3fsou.streamlit.app/
